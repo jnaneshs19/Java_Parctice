@@ -1,2 +1,2 @@
-# Java_Parctice
+# Java_Practice
 My first program
