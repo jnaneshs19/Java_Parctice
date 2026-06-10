@@ -1,3 +1,3 @@
 # Java_Practice
 My first program
-first time - using github
+first time - using github (Basic Java)
